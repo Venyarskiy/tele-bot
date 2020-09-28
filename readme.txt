@@ -1,1 +1,3 @@
-11
+# -*- coding: utf-8 -*-
+Требуемые пакеты:
+pyTelegramBotAPI
